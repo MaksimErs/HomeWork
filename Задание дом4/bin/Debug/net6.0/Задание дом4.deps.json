@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Задание дом4/1.0.0": {
+        "runtime": {
+          "Задание дом4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Задание дом4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
