@@ -1,0 +1,15 @@
+C:\Users\mazal\OneDrive\Рабочий стол\1\семинар4\bin\Debug\net6.0\семинар4.exe
+C:\Users\mazal\OneDrive\Рабочий стол\1\семинар4\bin\Debug\net6.0\семинар4.deps.json
+C:\Users\mazal\OneDrive\Рабочий стол\1\семинар4\bin\Debug\net6.0\семинар4.runtimeconfig.json
+C:\Users\mazal\OneDrive\Рабочий стол\1\семинар4\bin\Debug\net6.0\семинар4.dll
+C:\Users\mazal\OneDrive\Рабочий стол\1\семинар4\bin\Debug\net6.0\семинар4.pdb
+C:\Users\mazal\OneDrive\Рабочий стол\1\семинар4\obj\Debug\net6.0\семинар4.csproj.AssemblyReference.cache
+C:\Users\mazal\OneDrive\Рабочий стол\1\семинар4\obj\Debug\net6.0\семинар4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazal\OneDrive\Рабочий стол\1\семинар4\obj\Debug\net6.0\семинар4.AssemblyInfoInputs.cache
+C:\Users\mazal\OneDrive\Рабочий стол\1\семинар4\obj\Debug\net6.0\семинар4.AssemblyInfo.cs
+C:\Users\mazal\OneDrive\Рабочий стол\1\семинар4\obj\Debug\net6.0\семинар4.csproj.CoreCompileInputs.cache
+C:\Users\mazal\OneDrive\Рабочий стол\1\семинар4\obj\Debug\net6.0\семинар4.dll
+C:\Users\mazal\OneDrive\Рабочий стол\1\семинар4\obj\Debug\net6.0\refint\семинар4.dll
+C:\Users\mazal\OneDrive\Рабочий стол\1\семинар4\obj\Debug\net6.0\семинар4.pdb
+C:\Users\mazal\OneDrive\Рабочий стол\1\семинар4\obj\Debug\net6.0\семинар4.genruntimeconfig.cache
+C:\Users\mazal\OneDrive\Рабочий стол\1\семинар4\obj\Debug\net6.0\ref\семинар4.dll

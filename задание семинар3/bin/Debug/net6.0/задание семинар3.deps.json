@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "задание семинар3/1.0.0": {
+        "runtime": {
+          "задание семинар3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "задание семинар3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
