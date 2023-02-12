@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "сем8 дз3/1.0.0": {
+        "runtime": {
+          "сем8 дз3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "сем8 дз3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
